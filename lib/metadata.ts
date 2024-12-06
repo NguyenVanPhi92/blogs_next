@@ -9,7 +9,7 @@ export const BASE_URL =
 
 export const defaultAuthor: AuthorType = {
   name: "Amy Shields",
-  handle: "@amyshieldsfake",
+  handle: "nguyenvanphi.fi@",
   socialProfiles,
   email: "definitelyfake@nevermind.com",
   website: "https://nextjs.org",

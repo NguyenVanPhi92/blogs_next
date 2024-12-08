@@ -8,7 +8,7 @@ export const BASE_URL =
   `http://localhost:${process.env.PORT || 3000}`;
 
 export const defaultAuthor: AuthorType = {
-  name: "Amy Shields",
+  name: "Phi Nguyen",
   handle: "nguyenvanphi.fi@",
   socialProfiles,
   email: "definitelyfake@nevermind.com",
@@ -17,7 +17,7 @@ export const defaultAuthor: AuthorType = {
   company: "Unicorns & Co.",
   availableForWork: true,
   location: {
-    city: "Los Angeles",
+    city: "Ho Chi Minh City",
     media: "/losangeles.jpg",
   },
 };

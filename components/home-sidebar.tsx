@@ -24,7 +24,7 @@ export function Sidebar({ className, ...props }: CardProps) {
             <p className="ml-2 mr-auto text-sm font-medium leading-none">{defaultAuthor.location.city}</p>
             <Image
               src={defaultAuthor.location.media}
-              alt="Los Angeles"
+              alt="Ho Chi Minh City"
               width={56}
               height={56}
               className="h-16 w-16 rounded-md object-cover"
